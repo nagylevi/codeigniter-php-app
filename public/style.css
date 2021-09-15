@@ -1,0 +1,23 @@
+#hide {
+    display: none;
+}
+
+#city-list {
+    list-style-type: none;
+}
+
+#city-list a {
+    padding-left: 10px;
+}
+
+#add-city {
+    margin-bottom: 20px;
+}
+
+li {
+    cursor: pointer;
+}
+
+#emptyMessage {
+    color: red;
+}
